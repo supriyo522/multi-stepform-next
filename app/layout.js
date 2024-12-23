@@ -28,7 +28,7 @@ const Layout = ({ children }) => (
       </header>
       <main className="flex-grow p-4">{children}</main>
       <footer className="p-4 bg-gray-200 dark:bg-gray-800 text-center text-gray-900 dark:text-gray-100">
-        Feel free to reach out at ZenStreet.ai
+        Feel free to reach out at Owner
       </footer>
     </body>
   </html>
